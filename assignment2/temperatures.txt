@@ -1,0 +1,17 @@
+USA,Sunnyvale,90
+USA,Cupertino,warm
+USA,Sunnyvale,90
+CANADA,Toronto,cold
+CANADA,Montreal,cold
+USA,Cupertino,80
+USA,Cupertino,80
+USA,Cupertino,50
+CANADA,Toronto,30
+CANADA,Toronto,40
+CANADA,Toronto,50
+CANADA,Montreal,10
+CANADA,Montreal,90
+FRANCE,Paris,65
+FRANCE,Paris,75
+FRANCE,Paris,85
+FRANCE,Paris,mild

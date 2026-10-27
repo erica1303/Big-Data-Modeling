@@ -1,0 +1,10 @@
+.venv/
+venv/
+env/
+.env
+.vscode/
+*.code-workspace
+.DS_Store
+__pycache__/
+*.pyc
+*.pdf
